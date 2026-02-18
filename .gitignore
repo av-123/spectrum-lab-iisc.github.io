@@ -12,3 +12,5 @@ node_modules/
 vendor
 .idea
 _site_test
+web-v2/
+nextjs-site/

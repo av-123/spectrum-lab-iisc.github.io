@@ -17,19 +17,24 @@ schedule:
 news:
 
 lectures:
+  - title: "Randomized Linear Algebra"
+    notes: "/assets/teaching/randomized-linear-algebra/RandomizedLinear Algebra.pdf"
+    description:
+
+  - title: "Large Scale Matrices"
+    notes: "/assets/teaching/randomized-linear-algebra/LargeScaleMatrices.pdf"
+    description:
+
 
 assignments:
 
 resources:
  - title: "N. Halko, P.G. Martinsson, and J. A. Tropp (2011) Finding Structures with Randomness: Probabilistic Algorithms for constructing Approximate Matrix decompositions, SIAM Review, Vol 53, 217-288"
+   url: "https://epubs.siam.org/doi/10.1137/090771806"
 
- - title: "H. Avron, P. Maymounkov, S. Toledo (2010) Blendenpick: Supercharging LAPACK's Least squares solvers, SIAM Journal on Scientific Computing, 32(3), 1217-1236"
 
- - title: "G. Golub and C. F. Van Loan (1989) Matrix Computations, Johns Hopkins Press, Baltimore"
-
- - title: "M. W. Mahoney (2010) Randomized Algorithms for Matrix and Data, Foundations and Trends in Machine Learning, pages 123-224"
-
- - title: "D. P. Woodruff (2014) Sketching as a tool for numerical linear algebra, Foundations and Trends in Theoretical Computer Science, 10(1-2), 1-157"
+ - title: "One Hundred Years of the Design of Experiments on and off the Pages of Biometrika"
+   url: "https://www.jstor.org/stable/2673675"
 ---
 
 {% include course-materials.liquid %}
