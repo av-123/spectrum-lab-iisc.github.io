@@ -6,16 +6,21 @@ lastname: Kamath
 description: PhD Student
 img: assets/img/people/current/phd-students/Abijith.jpg
 website: https://kamathabijithj.github.io
+orcid_id: ''
 linkedin_username: abijith-kamath-556870111
 github_username: kamathabijithj
 email: abijithj@iisc.ac.in
-alias: abijithj
-category: PhD Students
 scholar_userid: yPXzUJMAAAAJ
+twitter_username: ''
 show: true
-fellowship: Prime Minister's Research Fellowship (2020-2024), Qualcomm Innovation Fellowship India (2025)
-
 biography_paragraphs:
   - "<div style='text-align: justify;'>Abijith Jagannath Kamath received the Bachelor of Technology degree from the Department of Electrical and Electronics Engineering, National Institute of Technology Karnataka, Surathkal, India, in 2019. From May 2019 to Dec. 2019, he was a Project Associate at the Spectrum Lab, Department of Electrical Engineering, Indian Institute of Science (EE, IISc), Bengaluru, India. Since 2020, he has been pursuing the Ph.D. degree at EE, IISc. His research interests include sampling theories, nonconvex optimization, and machine learning for computational sensing and imaging. He is a recipient of the Prime Minister's Research Fellowship from 2020 to 2024, the Outstanding Teaching Assistant Award from EE, IISc in 2024 and the Qualcomm Innovation Fellowship India in 2025.</div>"
+show_visiting_positions: true
+visiting_positions:
+  - institution: École Polytechnique Fédérale de Lausanne
+    dates: March - May, 2026
+    hosts: Biomedical Imaging Group
+category: PhD Students
+alias: abijithj
+fellowship: Prime Minister's Research Fellowship (2020-2024), Qualcomm Innovation Fellowship India (2025)
 ---
-
