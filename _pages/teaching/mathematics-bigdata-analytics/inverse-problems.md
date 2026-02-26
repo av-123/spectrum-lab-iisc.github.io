@@ -108,6 +108,12 @@ resources:
   - title: "Influential Observations, High Leverage Points, and Outliers in Linear Regression"
     url: https://www.jstor.org/stable/2245477
     description: ''
+  - title: "Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions"
+    url: https://epubs.siam.org/doi/10.1137/090771806
+    description: ''
+  - title: "One Hundred Years of the Design of Experiments on and off the Pages of Biometrika"
+    url: https://www.jstor.org/stable/2673675
+    description: ''
 teaching_assistants: []
 ---
 

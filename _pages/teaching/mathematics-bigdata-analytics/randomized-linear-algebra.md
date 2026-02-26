@@ -25,6 +25,10 @@ lectures:
     notes: "/assets/teaching/randomized-linear-algebra/LargeScaleMatrices.pdf"
     description:
 
+  - title: "Randomized Least Squares"
+    url: "/assets/teaching/randomized-linear-algebra/RandomizedLS_compressed.pdf"
+    description: ''
+
 
 assignments:
 
@@ -36,9 +40,7 @@ resources:
   - title: "One Hundred Years of the Design of Experiments on and off the Pages of Biometrika"
     url: "https://www.jstor.org/stable/2673675"
     description: ''
-  - title: "Randomized Least Squares"
-    url: "/assets/teaching/randomized-linear-algebra/RandomizedLS_compressed.pdf"
-    description: ''
+
 ---
 
 {% include course-materials.liquid %}
