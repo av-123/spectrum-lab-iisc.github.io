@@ -29,12 +29,16 @@ lectures:
 assignments:
 
 resources:
- - title: "N. Halko, P.G. Martinsson, and J. A. Tropp (2011) Finding Structures with Randomness: Probabilistic Algorithms for constructing Approximate Matrix decompositions, SIAM Review, Vol 53, 217-288"
-   url: "https://epubs.siam.org/doi/10.1137/090771806"
+  - title: "N. Halko, P.G. Martinsson, and J. A. Tropp (2011) Finding Structures with Randomness: Probabilistic Algorithms for constructing Approximate Matrix decompositions, SIAM Review, Vol 53, 217-288"
+    url: "https://epubs.siam.org/doi/10.1137/090771806"
 
 
- - title: "One Hundred Years of the Design of Experiments on and off the Pages of Biometrika"
-   url: "https://www.jstor.org/stable/2673675"
+  - title: "One Hundred Years of the Design of Experiments on and off the Pages of Biometrika"
+    url: "https://www.jstor.org/stable/2673675"
+    description: ''
+  - title: "Randomized Least Squares"
+    url: "/assets/teaching/randomized-linear-algebra/RandomizedLS_compressed.pdf"
+    description: ''
 ---
 
 {% include course-materials.liquid %}
