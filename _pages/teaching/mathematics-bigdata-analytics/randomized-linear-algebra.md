@@ -26,7 +26,7 @@ lectures:
     description:
 
   - title: "Randomized Least Squares"
-    url: "/assets/teaching/randomized-linear-algebra/RandomizedLS_compressed.pdf"
+    notes: "/assets/teaching/randomized-linear-algebra/RandomizedLS.pdf"
     description: ''
 
 
