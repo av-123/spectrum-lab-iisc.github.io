@@ -13,5 +13,13 @@ alias: ashishverma2
 category:  PhD Students
 show: true
 biography_paragraphs:
-  - "<div style='text-align: justify;'>My background is in optics, and my current work focuses on computational imaging.</div>"
+  - "<div style="text-align: justify;">
+  <p>My background is in optics, and my current work focuses on computational imaging.</p>
+  
+  <p>Previous education:</p>
+  <ul>
+    <li>BS-MS (Physics)</li>
+    <li>M.Tech (Applied Optics)</li>
+  </ul>
+</div>"
 ---
